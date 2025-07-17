@@ -1,0 +1,7 @@
+base58
+bip32utils
+mnemonic
+cryptography
+aiohttp
+ecdsa
+requests
